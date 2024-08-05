@@ -1,4 +1,3 @@
-# goLangAssessment1
 
 code is live on Render
 curls :
